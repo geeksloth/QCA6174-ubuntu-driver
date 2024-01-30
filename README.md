@@ -14,4 +14,4 @@ then reboot your computer
 ```bash
 reboot
 ```
-and Hoola! It's work like a charm!
+and Hoola! It's working like a charm!
